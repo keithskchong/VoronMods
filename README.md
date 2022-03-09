@@ -2,8 +2,11 @@
 My own voron mods, I'm currently have a V0.1 and Switchwire.
 
 ## For Voron V0.1
-[Skirt with LED button](V0.1/Skirt_LED_button)<br>
-[Skirt mirror with OLED panel](V0.1/Skirt_mirror_OLED)<br>
+[Skirt with LED button](V0.1/Skirt_LED_button/)<br>
+[Skirt mirror with OLED panel](V0.1/Skirt_mirror_OLED/)<br>
+
+## For Switchwire
+[Klipper config](Switchwire/klipper_config_skr1.3/)Klipper config for Switchwire, Ender 3 pro conversion with SKR 1.3 and TMC2208<br>
 
 <br>
 
