@@ -2,7 +2,7 @@
 My own voron mods, I'm currently have a V0.1 and Switchwire.
 
 ## For Voron V0.1
-[Skirt with LED button](V0.1/Skirt_LED_button/)<br>
+[Skirt with 16mm switch w/LED](V0.1/Skirt_16mm_switch/)<br>
 [Skirt mirror with OLED panel](V0.1/Skirt_mirror_OLED/)<br>
 
 ## For Switchwire
