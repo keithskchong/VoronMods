@@ -7,7 +7,6 @@ My own voron mods, I'm currently have a V0.1 and Switchwire.
 
 ## For Switchwire
 [Klipper config](Switchwire/klipper_config_skr1.3/) Klipper config for Switchwire, Ender 3 pro conversion with SKR 1.3 and TMC2208<br>
-
 <br>
 
 ### Follow me on social media
