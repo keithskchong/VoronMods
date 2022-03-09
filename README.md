@@ -14,7 +14,6 @@ My own voron mods, I'm currently have a V0.1 and Switchwire.
 IG: https://www.instagram.com/fullydimension/<br>
 YT: https://www.youtube.com/c/fullydimension<br>
 FB: https://fb.me/fullydimension<br><br>
-
 PrusaPrinter.org: https://www.prusaprinters.org/social/62446-keith-chong/<br>
 Cults: https://cults3d.com/en/users/keithchong<br>
 MyMiniFactory: https://www.myminifactory.com/users/keithchong<br>
